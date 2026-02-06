@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+audios/
+jsons/
+models/
+.env
+.DS_Store
+
