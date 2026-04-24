@@ -29,4 +29,4 @@ How It Works
 * Machine Learning Basics
 
 
-  ![RAG Architecture](rag-based-image.png)
+  ![RAG Architecture](rag based image.png)
