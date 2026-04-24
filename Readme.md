@@ -27,3 +27,6 @@ How It Works
 * NumPy / Pandas
 * NLP Concepts
 * Machine Learning Basics
+
+
+  ![RAG Architecture](rag-based-image.png)
