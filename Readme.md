@@ -1,7 +1,7 @@
 # How to use this RAG AI Teaching assistant on your own data
 
-## Step 1 - Collect your videos
-Move all your video files to the videos folder
+## Step 1 - Collect the videos
+Move all the video files to the videos folder
 
 ## Step 2 - Convert to mp3
 Convert all the video files to mp3 by running video_to mp3
