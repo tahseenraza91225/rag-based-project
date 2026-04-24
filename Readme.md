@@ -1,16 +1,29 @@
-# How to use this RAG AI Teaching assistant on your own data
+RAG-based AI Teaching Assistant
 
-## Step 1 - Collect the videos
-Move all the video files to the videos folder
+Overview
 
-## Step 2 - Convert to mp3
-Convert all the video files to mp3 by running video_to mp3
+This project is a Retrieval-Augmented Generation (RAG) based AI Teaching Assistant that answers user queries using a custom knowledge base.
 
-## Step 3 - Convert mp3 to json
-Convert all the mp3 files to json by running mp3_to_json
+Instead of relying only on a language model, the system retrieves relevant information and generates context-aware, accurate responses.
 
-## Step 4 - Convert the json files to Vectors
-Use the file preprocess_json to convert the json files to a dataframe with Embeddings and save it as a joblib pickle
+How It Works
 
-## Step 5 - Prompt generation and feeding to LLM
-Read the joblib file and load it into the memory. Then create a relevant prompt as per the user query and feed it to the LLM
+1. User inputs a question
+2. System processes and analyzes the query
+3. Relevant information is retrieved from stored data
+4. Context is passed to the model
+5. AI generates a meaningful response
+⚙️ Features
+
+📚 Custom knowledge-based question answering
+🔍 Retrieval-based response generation
+🤖 Basic integration of AI/LLM concepts
+🧹 Data preprocessing and text handling
+⚡ Fast and simple query processing
+
+🛠️ Tech Stack
+* Python
+* Jupyter Notebook
+* NumPy / Pandas
+* NLP Concepts
+* Machine Learning Basics
